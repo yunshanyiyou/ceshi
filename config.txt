@@ -5,6 +5,7 @@
 # 公众号appSecret
 "app_secret": "307a83fa5d218bb1fae92ceda66ce6f2",
 # 模板消息id
+"template_id": "uAp2ZnqqBrC1RB59IRxGC8ORLQRRhFhxmzNAB53pFAQ",
 # 天气
 "template_id": "TfmpYE3NqjYgEoN7HMXXScy_P9VcOomu7UHC5gPmgLc",
 #上午和下午的课程
